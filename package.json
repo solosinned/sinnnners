@@ -1,0 +1,22 @@
+{
+  "name": "sinnnners",
+  "version": "1.0.0",
+  "description": "Discord++ - DM unread badges & notifications enhancement",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000"
+  },
+  "keywords": [
+    "discord",
+    "enhancement",
+    "notifications",
+    "dark-mode"
+  ],
+  "author": "solosinned",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/solosinned/sinnnners.git"
+  }
+}
